@@ -1,0 +1,206 @@
+City	Post Office	Pin Code	Latitude	Longitude
+Hyderabad	Hyderabad G.P.O.	500001	17.8669	78.6003
+Nampally	Gandhi Bhawan (Hyderabad)	500001	17.8669	78.6003
+Nampally	State Bank Of Hyderabad	500001	17.8669	78.6003
+Nampally	Seetharampet	500001	17.8669	78.6003
+Nampally	Moazzampura	500001	17.8669	78.6003
+Charminar	Hyderabad Jubilee	500002	17.8669	78.6003
+Charminar	Moghalpura	500002	17.8669	78.6003
+Hyderabad	Secunderabad	500003	17.5043	78.5426
+Secunderabad	Begumpet Policelines	500003	17.5043	78.5426
+Secunderabad	Kingsway	500003	17.5043	78.5426
+Secunderabad	MG Road	500003	17.5043	78.5426
+Khairatabad	A.Gs Office	500004	17.8669	78.6003
+Nampally	Vidhan Sabha (Hyderabad)	500004	17.8669	78.6003
+Himayathnagar	Parishram Bhawan	500004	17.8669	78.6003
+Khairatabad	Khairatabad	500004	17.8669	78.6003
+Khairatabad	Anandnagar (Hyderabad)	500004	17.8669	78.6003
+Khairatabad	Bazarghat (Hyderabad)	500004	17.8669	78.6003
+Hyderabad	Mamidipalli	500005	19.2325	79.008
+Bandlaguda	Keshogiri	500005	18.2713	78.7538
+Bandlaguda	Crp Camp (Hyderabad)	500005	18.2713	78.7538
+Asifnagar	Mangalhat	500006	17.8669	78.6003
+Asifnagar	Kulsumpura	500006	17.8669	78.6003
+Asifnagar	Karwan Sahu	500006	17.8669	78.6003
+Secunderabad	Administrative Buildings	500007	17.8669	78.6003
+Secunderabad	Tarnaka	500007	17.8669	78.6003
+Secunderabad	Ngri	500007	17.8669	78.6003
+Secunderabad	Jama I Osmania	500007	17.8669	78.6003
+Secunderabad	IICT	500007	17.8669	78.6003
+Golconda	Nanakramguda	500008	17.4207	78.3509
+Golconda	Lunger House	500008	17.4207	78.3509
+Golconda	Sakkubai Nagar	500008	17.4207	78.3509
+Golconda	Toli Chowki	500008	17.4207	78.3509
+Golconda	Kakatiya Nagar	500008	17.4207	78.3509
+Golconda	Hyder Shah Kote	500008	17.4207	78.3509
+Golconda	Dargah Hussain Shahwali	500008	17.4207	78.3509
+Golconda 	Golconda	500008	17.4207	78.3509
+Tirumalagiri	Manovikasnagar	500009	17.8669	78.6003
+Secunderabad	Picket	500009	17.8669	78.6003
+Tirumalagiri	Alwal	500010	17.5173	78.5175
+Tirumalagiri	Bolarum	500010	17.5173	78.5175
+Tirumalagiri	Haiglines	500010	17.5173	78.5175
+Tirumalagiri	Bolarum Bazar	500010	17.5173	78.5175
+Malkagiri Manda	Kowkoor	500010	17.5173	78.5175
+Tirumalagiri	Bowenpally	500011	17.48	78.4266
+Nampally	Begumbazar	500012	17.48	78.4266
+Amberpet	Srinivasapuram (Hyderabad)	500013	17.48	78.4266
+Amberpet	Amberpet	500013	17.48	78.4266
+Amberpet	Seminary	500013	17.48	78.4266
+Amberpet	Hyderabad Public School	500013	17.48	78.4266
+Amberpet	Zindatelismath	500013	17.48	78.4266
+Tirumalagiri	Hakimpet	500014	17.5478	78.5365
+Tirumalagiri	Aoc Records	500015	17.4703	78.5167
+Tirumalagiri	EME Records	500015	17.4703	78.5167
+Secunderabad	Begumpet	500016	17.48	78.4266
+Secunderabad	Prakashamnagar	500016	17.48	78.4266
+Secunderabad	Lallapet	500017	17.4381	78.5406
+Secunderabad	Lallaguda	500017	17.4381	78.5406
+Ameerpet	Erragadda	500018	17.48	78.4266
+Ameerpet	Sanath Nagar Colony	500018	17.48	78.4266
+Balanagar	Vivekananda Nagar Colony	500018	17.48	78.4266
+Musheerabad	Golconda Chowrastha	500020	17.3995	78.0179
+Musheerabad	Musheerabad (ND)	500020	17.3995	78.0179
+Musheerabad	Zamistanpur	500020	17.3995	78.0179
+Hyderabad	Musheerabad (Delivery)	500020	17.3995	78.0179
+Musheerabad	Ashoknagar (Hyderabad)	500020	17.3995	78.0179
+Khairatabad	Central Secretariat	500022	17.3995	78.0179
+Charminar	Yakutpura	500023	17.3995	78.0179
+Saidabad	Sahifa	500024	17.3995	78.0179
+Charminar	Darushifa	500024	17.3995	78.0179
+Secunderabad	Rail Nilayam	500025	17.3995	78.0179
+Secunderabad	Himmatnagar	500025	17.3995	78.0179
+Secunderabad	Padmaraonagar	500025	17.3995	78.0179
+Secunderabad	Nehrunagar (Hyderabad)	500026	17.3995	78.0179
+Himayathnagar	Stn Kachiguda	500027	17.3995	78.0179
+Nampally	Nimboliadda	500027	17.3995	78.0179
+Himayathnagar	Barkatpura	500027	17.3995	78.0179
+Asifnagar	Shantinagar (Hyderabad)	500028	17.3995	78.0179
+Asifnagar	Murad Nagar (Hyderabad)	500028	17.3995	78.0179
+Asifnagar	Humayunnagar	500028	17.3995	78.0179
+Himayathnagar	Ramakrishna Mutt	500029	17.3995	78.0179
+Himayathnagar	Narayanguda	500029	17.3995	78.0179
+Himayathnagar	Himayathnagar	500029	17.3995	78.0179
+Himayathnagar	Gagan Mahal	500029	17.3995	78.0179
+Hyderabad	Kismathpur	500030	17.4251	78.4248
+Golconda	Ibrahim Bagh Lines	500031	17.4251	78.4248
+Shaikpet	Dr.B R Ambedkar O.U	500033	17.4334	78.4111
+Shaikpet	Jubilee Hills	500033	17.4334	78.4111
+Khairatabad	Banjara Hills	500034	17.4168	78.4384
+Hyderabad	Saroornagar	500035	17.4251	78.4248
+Saidabad	Osmannagar (Hyderabad)	500036	17.4251	78.4248
+Amberpet	Malakpet Colony	500036	17.4251	78.4248
+Saidabad	Old Malakpet	500036	17.4251	78.4248
+Amberpet	Sripuram Colony	500036	17.4251	78.4248
+Tirumalagiri	CIE Balangar	500037	17.4251	78.4248
+Tirumalagiri	Rangareddynagar	500037	17.4251	78.4248
+Ameerpet	Sanjeev Reddy Nagar	500038	17.4251	78.4248
+Khairatabad	Vengal Rao Nagar	500038	17.4251	78.4248
+Hyderabad	Peerzadiguda	500039	17.4251	78.4248
+Secunderabad	Ie Moulali	500040	15.1252	78.315
+Secunderabad	Moulali	500040	15.1252	78.315
+Secunderabad	Aphb Colony Moulali	500040	15.1252	78.315
+Khairatabad	Raj Bhawan (Hyderabad)	500041	15.1252	78.315
+Tirumalagiri	Hal (Hyderabad)	500042	15.1252	78.315
+Tirumalagiri	Airforce Academy	500043	13.9638	78.2093
+Tirumalagiri	Bahadurpalli	500043	17.5587	78.4382
+Musheerabad	Ambernagar	500044	15.1252	78.315
+Musheerabad	Andhra Mahila Sabha	500044	15.1252	78.315
+Musheerabad	Nallakunta	500044	15.1252	78.315
+Musheerabad	Vidyanagar (Hyderabad)	500044	15.1252	78.315
+Musheerabad	New Nallakunta	500044	15.1252	78.315
+Khairatabad	A.Gs. Staff Quarters	500045	15.1252	78.315
+Khairatabad	Yousufguda	500045	15.1252	78.315
+Tirumalagiri	Hanumanpet	500047	17.4478	78.5263
+Tirumalagiri	Anandbagh	500047	17.4478	78.5263
+Tirumalagiri	Miyapur	500049	15.1252	78.315
+Tirumalagiri	Chandanagar	500050	18.6799	80.001
+Charminar	Falaknuma	500053	18.6799	80.001
+Charminar	Uppuguda	500053	18.6799	80.001
+Tirumalagiri	HMT Township	500054	18.6799	80.001
+Tirumalagiri	Suraram	500055	18.6799	80.001
+Hyd	Gajularamaram	500055	18.6799	80.001
+Tirumalagiri	IDA Jeedimetla	500055	18.6799	80.001
+Hyd	Kutbullapur	500055	18.6799	80.001
+Tirumalagiri	Neredmet	500056	18.6799	80.001
+Tirumalagiri	Ramakrishna Puram	500056	18.6799	80.001
+Asifnagar	Vijay Nagar Colony (Hyderabad)	500057	18.6799	80.001
+Bandlaguda	Kanchanbagh	500058	18.6799	80.001
+Hyderabad	Badangpet	500058	18.6799	80.001
+Saidabad	Saidabad Colony	500059	18.6799	80.001
+Saidabad	Santoshnagar Colony	500059	18.6799	80.001
+Hyderabad	Saidabad (Hyderabad)	500059	18.6799	80.001
+Secunderabad	Sitaphalmandi	500061	25.4298	75.6779
+Secunderabad	Kushaiguda	500062	25.4298	75.6779
+Secunderabad	Dr As Rao Nagar	500062	25.4298	75.6779
+Secunderabad	Jai Jawan Colony	500062	25.4298	75.6779
+Secunderabad	Ecil	500062	25.4298	75.6779
+Himayathnagar	LIC Division	500063	25.4298	75.6779
+Himayathnagar	New Mla Quarters	500063	25.4298	75.6779
+Hyderabad	Bahadurpura	500064	25.4298	75.6779
+Bahadurpura	Tadbun	500064	25.4298	75.6779
+Bahadurpura	Hussainialam	500064	25.4298	75.6779
+Bahadurpura	Kishanbagh	500064	25.4298	75.6779
+Charminar	Fatehdarwaza	500065	25.4298	75.6779
+Charminar	Shahalibanda	500065	25.4298	75.6779
+Charminar	High Court (Hyderabad)	500066	25.4298	75.6779
+Bandlaguda	R.C.Imarat	500069	25.4298	75.6779
+Balanagar	Vivekanandanagar Colony	500072	17.4849	78.4138
+Tirumalagiri	Kukatpally	500072	17.4849	78.4138
+Khairatabad	Srinagar Colony	500073	16.9396	78.3892
+Hyderabad	L B Nagar	500074	17.3477	78.5576
+Tirumalagiri	BITS	500078	13.1273	79.2573
+Tirumalagiri	Nisa Hakimpet	500078	13.1273	79.2573
+Hyd	Thumkunta	500078	13.1273	79.2573
+Tirumalagiri	CRPF	500078	13.1273	79.2573
+Secunderabad	Gandhinagar (Hyderabad)	500080	17.5	78.2009
+Shaikpet	Cyberabad	500081	17.4411	78.3885
+Shaikpet	Madhapur	500081	17.4411	78.3885
+Khairatabad	I.M.Colony	500082	17.5	78.2009
+Nampally	Somajiguda	500082	17.5	78.2009
+Tirumalagiri	KPHB Colony	500085	17.5	78.2009
+Tirumalagiri	Jntu Kukat Pally	500085	17.5	78.2009
+Tirumalagiri	JJ Nagar Colony	500087	17.5	78.2009
+Tirumalagiri	Jawahar Nagar	500087	17.5	78.2009
+Secunderabad	Samskruthi	500088	17.5	78.2009
+Hyd	Korremal	500088	17.5	78.2009
+Secunderabad	Rajeevagruhakalpa	500088	17.5	78.2009
+Secunderabad	Katchavanisingaram	500088	17.5	78.2009
+Hyd	Pratapsingaram	500088	17.5	78.2009
+Hyd	Pragatinagar	500090	17.5179	78.3828
+Golconda	Hydershahkote	500091	17.5179	78.3828
+Rajendra Nagar	AP Police Academy PO	500091	17.5179	78.3828
+Tirumalagiri	Vikasnagar (Hyderabad)	500093	17.5179	78.3828
+Tirumalagiri	Sainikpuri	500094	17.5179	78.3828
+Nampally	Putlibowli	500095	17.5179	78.3828
+Nampally	State Bank Of India	500095	17.5179	78.3828
+Shaikpet	Film Nagar	500096	17.5179	78.3828
+saroornagar	Gayatri Nagar	500097	17.5179	78.3828
+Tirumalagiri	Anantaram	500101	17.5146	78.8451
+Tirumalagiri	Peddalaxmapur	500101	17.5683	78.7218
+Hyd	Aliabad	500101	17.622	78.5984
+Hyd	Kyasaram	500101	17.5683	78.7218
+Hyd	Turkapalliyadaram	500101	17.5683	78.7218
+Hyd	Lalgadi Malakpet	500101	17.5683	78.7218
+Hyd	Mudchintanapalli	500101	17.5683	78.7218
+Hyd	Kolthur	500101	17.5683	78.7218
+Tirumalagiri	Jaggamguda	500101	17.5683	78.7218
+Hyd	Vikarabad	501101	17.3381	77.9044
+Hyd	Cherial	501301	17.5153	78.6283
+Hyd	Ghatkesar	501301	17.4508	78.6837
+Hyd	Ankireddipalli	501301	17.2665	78.9651
+Hyd	Yadgarpalli	501301	16.8333	79.5833
+Hyd	Rampallidiara	501301	17.2665	78.9651
+Hyd	Cherlapalli	501301	17.2665	78.9651
+Hyd	Thimmaipalli	501301	17.2665	78.9651
+Hyd	Rompalli	501301	17.2665	78.9651
+Hyd	Keesaragutta	501301	17.2665	78.9651
+Hyd	Ankushapur	501301	17.2665	78.9651
+Hyd	Bogaram	501301	17.2665	78.9651
+Hyd	Keesara	501301	17.2665	78.9651
+Hyd	Rajbolaram	501401	15.4189	79.2317
+Hyd	Girmapur	501401	15.4189	79.2317
+Hyd	Dabirpur	501401	15.4189	79.2317
+Hyd	Gowdavalli	501401	15.4189	79.2317
+Hyd	Nutankal	501401	15.4189	79.2317
+Hyd	Ravalkol	501401	15.4189	79.2317
